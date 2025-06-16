@@ -28054,6 +28054,17 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "liweistone",
+            "title": "Comfyui_AItools_MuziAI",
+            "id": "Comfyui_AItools_MuziAI",
+            "reference": "https://github.com/liweistone/Comfyui_AItools_MuziAI",
+            "files": [
+                "https://github.com/liweistone/Comfyui_AItools_MuziAI"
+            ],
+            "install_type": "git-clone",
+            "description": "This is a comfyui plugin set, primarily features include Gemini prompt reverse engineering, prompt optimization, file processing, etc. The plugins are mainly developed to streamline the workflow, which helps improve work efficiency."
         }
     ]
 }
